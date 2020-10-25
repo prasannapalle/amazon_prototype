@@ -1,4 +1,4 @@
-# amazon
+# Amazon Prototype
 ## Key features: Multiple databases- MySQL & MongoDB ,Redis Cache, Kafka, Passport JWT Authentication.
 ### Screens
 <img src="frontend/public/images/login.png" width="45%" alt="Login Page"></img>
